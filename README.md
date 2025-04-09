@@ -22,3 +22,8 @@ This is my personal developer portfolio website built using **React** and **Vite
 - Project showcase section
 - About me and contact details
 - Smooth navigation and modern layout
+
+## Author
+
+**Sami Nachwati**  
+[GitHub](https://github.com/SamiNachwati) • [LinkedIn](https://linkedin.com/in/sami-nachwati-519288264)
