@@ -1,12 +1,29 @@
-# React + Vite
+# Sami Nachwati – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio website built using **React** and **Vite**. The purpose of this site is to showcase my skills, projects, and experience in software development.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Site: https://saminachwati.github.io/samidev-portfolio/
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- HTML/CSS
+- JavaScript
+- GitHub Pages
+
+## Features
+
+- Clean, responsive UI
+- Project showcase section
+- About me and contact details
+- Smooth navigation and modern layout
+
+## Author
+
+**Sami Nachwati**  
+[GitHub](https://github.com/SamiNachwati) • [LinkedIn](https://linkedin.com/in/sami-nachwati-519288264)
