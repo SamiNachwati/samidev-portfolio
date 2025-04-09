@@ -4,12 +4,13 @@ This is my personal developer portfolio website built using **React** and **Vite
 
 ## Live Site
 
-[Live Site](https://saminachwati.github.io/samidev-portfolio/)
+[![Live Site](https://img.shields.io/badge/Website-Live-blue)](https://saminachwati.github.io/samidev-portfolio/)
 
 ## Tech Stack
 
 - React
 - Vite
+- Tailwind CSS
 - HTML/CSS
 - JavaScript
 - GitHub Pages
