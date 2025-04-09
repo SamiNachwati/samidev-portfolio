@@ -4,7 +4,7 @@ This is my personal developer portfolio website built using **React** and **Vite
 
 ## Live Site
 
-[🌐 Live Website](https://saminachwati.github.io/samidev-portfolio/)
+🔗 Live Site: (https://saminachwati.github.io/samidev-portfolio/)
 
 
 ## Tech Stack
