@@ -4,6 +4,7 @@ import { faGraduationCap, faBriefcase, faUpRightFromSquare } from '@fortawesome/
 import makLogo from '../icons/mak_logo.jpeg';
 import goLogo from '../icons/go_integrations_logo.jpeg';
 import mohawkLogo from '../icons/mohawkcollege_logo.jpeg';
+import arbelos from '../icons/arbelos.jpeg'
 import { RevealOnScroll } from '../RevealOnScroll';
 
 export const About = () => {
@@ -74,6 +75,28 @@ export const About = () => {
                                 Work Experience
                             </h3>
                             <div className='space-y-8 text-gray-300'>
+                                <div>
+                                    <div className='flex justify-between items-top mb-2'>
+                                        <div className='flex items-center gap-5'>
+                                            <img src={arbelos} alt="Arbelos Interactive" className='w-10 h-10 mr-2' />
+                                            <div>
+                                                <h4 className='font-bold text-lg'>
+                                                    Software Developer
+                                                </h4>
+                                                <h4>
+                                                    Arbelos Interactive
+                                                </h4>
+                                            </div>
+                                        </div>
+                                        <p className='text-sm'>
+                                            (Jan 2025 - April 2025)
+                                        </p>
+                                    </div>
+                                    <p className='text-sm'>
+                                    Designed and delivered a robust room booking system for a podcast studio, featuring role-based access for users and admins.
+                                    </p>
+                                </div>
+
                                 <div>
                                     <div className='flex justify-between items-top mb-2'>
                                         <div className='flex items-center gap-5'>
