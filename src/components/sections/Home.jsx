@@ -11,7 +11,7 @@ export const Home = () => {
                     </h1>
 
                     <p className="text-gray-400 text-lg mb-9 max-w-lg mx-auto">
-                        I'm a 3rd year Software Development Co-op student who loves engineering clean, robust, and scalable web applications.
+                        I'm a Software Developer who builds thoughtful, user-focused web applications with an emphasis on clarity, performance, and maintainability.
                     </p>
 
                     <div className='flex justify-center space-x-4'>

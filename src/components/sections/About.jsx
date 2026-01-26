@@ -5,11 +5,12 @@ import makLogo from '../icons/mak_logo.jpeg';
 import goLogo from '../icons/go_integrations_logo.jpeg';
 import mohawkLogo from '../icons/mohawkcollege_logo.jpeg';
 import arbelos from '../icons/arbelos.jpeg'
+import holman from '../icons/holman.png'
 import { RevealOnScroll } from '../RevealOnScroll';
 
 export const About = () => {
 
-    const frontendSkills = ["React", "Angular", "Tailwind CSS", "TypeScript", "JavaScript"]
+    const frontendSkills = ["React", "Angular", "Next.js", "Tailwind CSS", "TypeScript", "JavaScript"]
     const backendSkills = ["C#", "Java", "Python", "Node.js", ".NET", "MySQL", "SQL Server", "PostgreSQL", "MongoDB"]
 
     return (
@@ -62,10 +63,7 @@ export const About = () => {
                             </h3>
                             <ul className='list-disc list-inside text-gray-300 space-y-3'> 
                                 <li>
-                                    <strong>Advanced Diploma in Software Development</strong> - Mohawk College (2022 - 2025)
-                                </li>
-                                <li>
-                                    <strong>Relevant Coursework</strong>: Data Structures & Algorithms, Client Side Web Programming, Software Quality & Testing, Database Theory, Mobile Web Programming 
+                                    <strong>Advanced Diploma in Software Development</strong> - Mohawk College (2022-2025)
                                 </li>
                             </ul>
                         </div>
@@ -75,6 +73,27 @@ export const About = () => {
                                 Work Experience
                             </h3>
                             <div className='space-y-8 text-gray-300'>
+                                <div>
+                                    <div className='flex justify-between items-top mb-2'>
+                                        <div className='flex items-center gap-5'>
+                                            <img src={holman} alt="Holman" className='w-10 h-10 mr-2' />
+                                            <div>
+                                                <h4 className='font-bold text-lg'>
+                                                    Software Developer
+                                                </h4>
+                                                <h4>
+                                                    Holman
+                                                </h4>
+                                            </div>
+                                        </div>
+                                        <p className='text-sm'>
+                                            (Jan 2026 - April 2026)
+                                        </p>
+                                    </div>
+                                    <p className='text-sm'>
+                                    Developing production-grade React and TypeScript interfaces that support operational fleet workflows and near real-time asset visibility for internal teams.
+                                    </p>
+                                </div>
                                 <div>
                                     <div className='flex justify-between items-top mb-2'>
                                         <div className='flex items-center gap-5'>
